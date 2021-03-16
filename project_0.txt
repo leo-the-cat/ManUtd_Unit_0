@@ -1,0 +1,7 @@
+import random
+left=1
+right=1000
+number = random.randint(left,right)
+print ("Загадано число от 1 до 1000")
+predict = random.randint(left,right)
+count = 1gi
